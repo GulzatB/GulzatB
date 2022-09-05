@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GulzatB
+- 👋 Hi, I’m Gulzat 
 
 - 👀 I’m interested in contributing to new projects
 - 🌱 I’m currently learning LWC and Advance Apex Development
